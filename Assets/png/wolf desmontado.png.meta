@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 85e6c0ca6f6b44f4390d4d9daf63c3c9
+timeCreated: 1492939928
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wolf desmontado_0
+    21300002: wolf desmontado_1
+    21300004: wolf desmontado_2
+    21300006: wolf desmontado_3
+    21300008: wolf desmontado_4
+    21300010: wolf desmontado_5
+    21300012: wolf desmontado_6
+    21300014: wolf desmontado_7
+    21300016: wolf desmontado_8
+    21300018: wolf desmontado_9
+    21300020: wolf desmontado_10
+    21300022: wolf desmontado_11
+    21300024: wolf desmontado_12
+    21300026: wolf desmontado_13
+    21300028: wolf desmontado_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf desmontado_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1264
+        width: 332
+        height: 309
+      alignment: 9
+      pivot: {x: 0.7323246, y: 0.242818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1166
+        width: 336
+        height: 387
+      alignment: 9
+      pivot: {x: 0.71564627, y: 0.3852473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1253
+        width: 232
+        height: 264
+      alignment: 9
+      pivot: {x: 0.09701275, y: 0.47343907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_3
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1098
+        width: 223
+        height: 390
+      alignment: 9
+      pivot: {x: -0.0031015712, y: 0.9674651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 675
+        width: 121
+        height: 203
+      alignment: 9
+      pivot: {x: 0.3840994, y: 0.9029872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 788
+        width: 414
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 425
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 462
+        width: 293
+        height: 259
+      alignment: 9
+      pivot: {x: 0.6196583, y: 0.2743891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_8
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 377
+        width: 243
+        height: 407
+      alignment: 9
+      pivot: {x: 0.26915297, y: 0.94219685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 257
+        width: 59
+        height: 153
+      alignment: 9
+      pivot: {x: 0.42076862, y: 0.85136265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 369
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 139
+        width: 63
+        height: 91
+      alignment: 9
+      pivot: {x: 0.64840156, y: 0.8339034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 184
+        width: 94
+        height: 128
+      alignment: 9
+      pivot: {x: 0.74865204, y: 0.8469467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 120
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8700768, y: 0.49999854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wolf desmontado_14
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 48
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.8524538, y: 0.64310193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
